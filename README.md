@@ -71,8 +71,7 @@
 * Kuncoro
 * Siska
 * Dokter
-* Gori
-* Miftah Bot
+* Gori
   
 ## Other
 * Owner
