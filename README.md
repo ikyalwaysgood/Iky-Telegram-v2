@@ -4,7 +4,7 @@
  <p align="center">
     <a href="https://miftahganzz.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=AI+ChatBot+Created+By+Iky+Official+🌐"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=AI+Telegram+By+Iky+Official+🌐"
             alt="Miftah GanzZ"
         />
     </a>
