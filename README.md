@@ -134,14 +134,9 @@ module.exports = {
 </details>
 
 ----------
-## Donate
-- [Saweria](https://saweria.co/miftahganz)
-- [SociaBuzz](https://sociabuzz.com/miftahganz/tribe)
-- [Microsite](https://s.id/miftahbotz)
-- [Qris All Pay](https://telegra.ph/file/be286c967baac1546bd95.jpg)
-----------
+
 # Thanks to
-<a href="https://github.com/ikyalwaysgood"><img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" width="300" height="150"></a> | 
+<a href="https://github.com/ikyalwaysgood"><img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" width="300" height="175"></a> | 
 ---|
 [Iky Official](https://github.com/ikyalwaysgood)  |
 Developer |
