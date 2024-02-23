@@ -141,7 +141,7 @@ module.exports = {
 - [Qris All Pay](https://telegra.ph/file/be286c967baac1546bd95.jpg)
 ----------
 # Thanks to
-<a href="https://github.com/ikyalwaysgood"><img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" width="100" height="100"></a> | 
+<a href="https://github.com/ikyalwaysgood"><img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" width="400" height="150"></a> | 
 ---|
 [Iky Official](https://github.com/ikyalwaysgood)  |
 Developer |
