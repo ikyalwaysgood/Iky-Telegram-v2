@@ -10,7 +10,7 @@ module.exports = {
   versi: '2.1.0', // version bot
   prefix: '/',
   groupChatId: '', // your id grup
-  grupUrl: 'https://t.me/miftahgrup', // your link grup
+  grupUrl: 'https://t.me/+grlvtBCSWKpjYTg1', // your link grup
 //============================================
   web1: 'https://s.id/miftahbotz', // web 1 
   web2: 'https://api-miftah.xyz', // web 2
