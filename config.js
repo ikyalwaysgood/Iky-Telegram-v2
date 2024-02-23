@@ -1,9 +1,9 @@
 module.exports = {
   botToken: '7177105816:AAEYcS-oO1bKUJ6ba5_Bar9nzzDEYEePohI', //bot token from bot father
 //============================================
-  miftahkey: 'ikyalwaysgood', // apikey api-miftah.xyz
+  btc: 'ikyalwaysgood', // apikey api-miftah.xyz
   miftahkey2: 'free', // Apikey api.miftahganzz.my.id (default: free or global)
-  apimiftah: 'https://api.botcahx.eu.org',
+  btc: 'https://api.botcahx.eu.org',
   apimiftah2: 'https://api.miftahganzz.my.id',
 //============================================
   langsimi: 'id', // language simi
