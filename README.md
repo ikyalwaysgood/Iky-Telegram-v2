@@ -5,7 +5,7 @@
     <a href="https://miftahganzz.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=AI+Telegram+By+Iky+Official+🌐"
-            alt="Miftah GanzZ"
+            alt="Iky Official"
         />
     </a>
 </p>
@@ -143,5 +143,5 @@ module.exports = {
 # Thanks to
 <a href="https://github.com/miftahganzz"><img src="https://github.com/miftahganzz.png?size=100" width="100" height="100"></a> | 
 ---|
-[Miftah GanzZ](https://github.com/miftahganzz)  |
+[Iky Official](https://github.com/miftahganzz)  |
 Developer |
