@@ -4,7 +4,7 @@
  <p align="center">
     <a href="https://miftahganzz.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=AI+ChatBot+Created+By+Miftah+GanzZ+🌐"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=AI+ChatBot+Created+By+Iky+Official+🌐"
             alt="Miftah GanzZ"
         />
     </a>
@@ -24,39 +24,39 @@
 <img title="Followers" src="https://img.shields.io/github/followers/miftahganzz?color=red&style=flat-square">
 </a>
 
-<a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2/stargazers/">
+<a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2/stargazers/">
 <img title="Stars" src="https://img.shields.io/github/stars/miftahganzz/AI-Bot-Telegram-v2?color=blue&style=flat-square">
 </a
 >
-<a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2/network/members">
+<a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2/network/members">
 <img title="Forks" src="https://img.shields.io/github/forks/miftahganzz/AI-Bot-Telegram-v2?color=red&style=flat-square">
 </a>
 
-<a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2/watchers">
+<a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2/watchers">
 <img title="Watching" src="https://img.shields.io/github/watchers/miftahganzz/AI-Bot-Telegram-v2?label=Watchers&color=blue&style=flat-square">
 </a>
 
-<a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2">
+<a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2">
 <img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
 </a>
 
-<a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2/">
+<a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2/">
 <img title="Size" src="https://img.shields.io/github/repo-size/miftahganzz/AI-Bot-Telegram-v2?style=flat-square&color=green">
 </a>
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiftahganzz%2FAI-Bot-Telegram-v2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/>
 </a>
 
-<a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2/graphs/commit-activity">
+<a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2/graphs/commit-activity">
 <img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2#feature">Feature</a> •
- <a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2#howtoinstall">How To Install</a> •
-  <a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2#installing">Installing</a> •
-  <a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2#thanks-to">Thanks to</a> •
-  <a href="https://github.com/miftahganzz/AI-Bot-Telegram-v2#donate">Donate</a>
+  <a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2#feature">Feature</a> •
+ <a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2#howtoinstall">How To Install</a> •
+  <a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2#installing">Installing</a> •
+  <a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2#thanks-to">Thanks to</a> •
+  <a href="https://github.com/ikyalwaysgood/Iky-Telegram-v2#donate">Donate</a>
 </p>
 </div>
 
@@ -96,7 +96,7 @@
 
 ## Installing
 ```bash
-git clone https://github.com/miftahganzz/AI-Bot-Telegram-v2
+git clone https://github.com/ikyalwaysgood/Iky-Telegram-v2
 npm install
 node index.js
 ```
