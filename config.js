@@ -17,10 +17,10 @@ module.exports = {
 //============================================
   ownerContact: {
     ownerChatID: '', // id telegram owner
-    username: 'Miftah GanzZ', // username telegram
-    phoneNumber: '', //number tele 
-    firstName: 'Miftah', //nama depan
-    lastName: 'GanzZ', // nama belakang
+    username: '@iky_reallysad', // username telegram
+    phoneNumber: '6285794908894', //number tele 
+    firstName: 'Iky', //nama depan
+    lastName: 'Official', // nama belakang
   },
 //============================================
   qrisImage: './qris.jpg', //gambar qris buat donasi
