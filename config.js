@@ -1,5 +1,5 @@
 module.exports = {
-  botToken: '', //bot token from bot father
+  botToken: '7177105816:AAEYcS-oO1bKUJ6ba5_Bar9nzzDEYEePohI', //bot token from bot father
 //============================================
   miftahkey: 'your_apikey', // apikey api-miftah.xyz
   miftahkey2: 'free', // Apikey api.miftahganzz.my.id (default: free or global)
